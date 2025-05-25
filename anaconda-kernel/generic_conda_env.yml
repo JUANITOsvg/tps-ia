@@ -1,0 +1,49 @@
+name: default
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+dependencies:
+  # Core data science
+  - python
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - jupyter
+  - ipython
+  
+  # Machine Learning
+  - scikit-learn
+  - xgboost
+  - lightgbm
+  - statsmodels
+
+  # Deep Learning
+  - tensorflow
+  - pytorch
+  - torchvision
+  - torchaudio
+  - keras
+  
+  # Computer Vision/NLP
+  - opencv
+  - scikit-image
+  - pillow
+  - nltk
+  - spacy
+
+  # Utilities & Others
+  - coffea
+  - pip
+  
+  # Pip-only packages
+  - pip:
+    - transformers       # Hugging Face models
+    - datasets           # Hugging Face datasets
+    - keras-tuner        # Hyperparameter tuning
+
+
+# CREATE: conda env create --file=./generic_conda_env.yml
+# UPDATE: conda env update -n default-env -f ./generic_conda_env.yml
