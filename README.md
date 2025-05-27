@@ -6,3 +6,7 @@ Usar el yml de anaconda para crear el env
 ## TP1
 
 En este tp fifififi
+
+
+
+ME GUSTA EL CHORIZONGO
