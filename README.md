@@ -14,7 +14,19 @@ Este trabajo práctico se centra en aplicar técnicas de análisis exploratorio 
 
 El dataset contiene 21 variables que incluyen atributos personales, historial de contacto, indicadores económicos y resultados de campañas previas. Ejemplos:
 
-a. age, job, marital, education: datos demográficos.
-b. contact, month, day_of_week, duration: detalles del contacto con el cliente.
-c. emp.var.rate, euribor3m: variables económicas externas.
-d. y: variable objetivo (si el cliente aceptó o no la oferta).
+* age, job, marital, education: datos demográficos.
+* contact, month, day_of_week, duration: detalles del contacto con el cliente.
+* emp.var.rate, euribor3m: variables económicas externas.
+* y: variable objetivo (si el cliente aceptó o no la oferta).
+
+## TP2
+
+NADA
+
+## TP3
+
+UNA VERGA
+
+## TP4
+
+NADA NADA
