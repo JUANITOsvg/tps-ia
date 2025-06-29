@@ -5,9 +5,6 @@ En este repositorio almacenamos los trabajos practicos sugeridos para la materia
 1. Usar el yml de anaconda para crear el env
 
 2. Tener instalado Python 3.8+ y crear un entorno virtual
-    python -m venv venv
-    source venv/bin/activate  # En Windows: venv\Scripts\activate
-    pip install -r requirements.txt  # (si el archivo existe)
 
 3. Correr las celdas en orden para reproducir el análisis.
 
